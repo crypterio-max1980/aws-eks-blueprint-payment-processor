@@ -1,8 +1,8 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b14f5d11-c3a6-4465-84f5-e0a5e194f4ad" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/df98db20-65d7-495e-bb20-461557771fd8" />
 
 
 
-## AWS | Metabase
+## AWS | BTCPAY Platform
 Metabase is an open-source Business Intelligence (BI) platform that lets you analyze data, run SQL queries, and build interactive dashboards without needing to develop a custom analytics application.
 
 
