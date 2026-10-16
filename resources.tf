@@ -35,7 +35,7 @@ module "ingress" {
   depends_on = [module.grafana]
 }
 
-module "metabase" {
-  source = "./modules/metabase"
+module "btcpay" {
+  source = "./modules/btcpay"
   depends_on = [module.ingress]
 }
