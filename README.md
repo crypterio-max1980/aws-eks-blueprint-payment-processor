@@ -3,7 +3,8 @@
 
 
 ## AWS | BTCPAY Platform
-Metabase is an open-source Business Intelligence (BI) platform that lets you analyze data, run SQL queries, and build interactive dashboards without needing to develop a custom analytics application.
+BTCPay Server creates invoices, presents checkout to customers, and records payments sent directly to wallets controlled by the merchant. It does not hold funds as a payment intermediary.
+
 
 
 
